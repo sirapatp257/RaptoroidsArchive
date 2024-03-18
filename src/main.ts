@@ -34,25 +34,26 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         <div class = "team_member">
           <h3>Wichapas "Harry" Pichetpongsa</h3>
           <img src = "img/IMG-6365.jpg" width = "240" height = "320">
-          <p>Role: Design Lead + Playtest lead</p>
+          <p><b>Role:</b> Design Lead + Playtest lead</p>
           <p>Contribution Highlights: scene flow, splash experience, player combat abilities programming</p>
         </div>
 
         <div class = "team_member">
           <h3 font-size = "16px">Sirapat "Poom" Phunjamaneechot</h3>
-          <p>Role: Production lead</p>
-          <p>Contribution Highlights: movement and combat systems programming, map procedural generation programming, implementation of accessibility features</p>
+          <img src = "img/poom.jpg" width = "226" height = "302">
+          <p><b>Role:</b> Production lead</p>
+          <p><b>Contribution Highlights:</b> movement and combat systems programming, map procedural generation programming, implementation of accessibility features</p>
         </div>
       
         <div class = "team_member">
         <h3>Nhan Nguyen</h3>
         <img src = "img/nhan.png" width = "169" height = "217">
-        <p>Role: Engine lead, Tools lead</p>
-        <p>Contribution Highlights: in charge of game deployment options, and help with the programming of general game system, miscellaneous aspects of the game</p>
+        <p><b>Role:</b> Engine lead, Tools lead</p>
+        <p><b>Contribution Highlights:</b> in charge of game deployment options, and help with the programming of general game system, miscellaneous aspects of the game</p>
         </div>
       </div>
+      </center>
     </div>
-    </center>
 
     <div class = "bullet_b">
       <h2>
