@@ -29,6 +29,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         About Our Team
       </h2>
       
+      <center>
       <div class = "team_roster">
         <div class = "team_member">
           <h3>Wichapas "Harry" Pichetpongsa</h3>
@@ -51,6 +52,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
         </div>
       </div>
     </div>
+    </center>
 
     <div class = "bullet_b">
       <h2>
