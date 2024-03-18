@@ -1,6 +1,6 @@
 import './style.css'
 
-document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
+document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
     <h1>Team SEA Slugs</h1>  
     
@@ -47,7 +47,7 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
         <h3>Nhan Nguyen</h3>
         <img src = "img/nhan.png" width = "169" height = "217">
         <p>Role: Engine lead, Tools lead</p>
-        <p>Contribution Highlights: </p>
+        <p>Contribution Highlights: in charge of game deployment options, and help with the programming of general game system, miscellaneous aspects of the game</p>
         </div>
       </div>
     </div>
@@ -146,4 +146,4 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
     
   </div>
-`
+`;
