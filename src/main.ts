@@ -21,7 +21,10 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
       <h2>
         Raptoroids Gameplay
       </h2>
-      <video src = "video/RaptoroidsLongplay.webm" width = "480" height = "640" controls>
+      <video width = "480" height = "640" controls>
+        <source src = "video/RaptoroidsLongplay.webm" type = "video/webm">
+        <source src = "video/RaptoroidsShortplayNewCompressed.mp4" type = "video/mp4">
+      </video>
     </div>
 
     <div class = "bullet_a">
