@@ -38,7 +38,7 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           <h3>Wichapas "Harry" Pichetpongsa</h3>
           <img src = "img/IMG-6365.jpg" width = "240" height = "320">
           <p><b>Role:</b> Design Lead + Playtest lead</p>
-          <p>Contribution Highlights: scene flow, splash experience, player combat abilities programming</p>
+          <p><b>Contribution Highlights:</b> scene flow, splash experience, player combat abilities programming</p>
         </div>
 
         <div class = "team_member">
