@@ -39,6 +39,10 @@ document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
           <img src = "img/IMG-6365.jpg" width = "240" height = "320">
           <p><b>Role:</b> Design Lead + Playtest lead</p>
           <p><b>Contribution Highlights:</b> scene flow, splash experience, player combat abilities programming</p>
+          <p>Email: harryex3@gmail.com</p>
+          <p>Linkedin: </p>
+          <img src = "img/Linkedin.jpeg" width = "60" height = "60">
+          
         </div>
 
         <div class = "team_member">
